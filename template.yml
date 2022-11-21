@@ -11,7 +11,7 @@ Metadata:
     LicenseUrl: ./LICENSE
     ReadmeUrl: ./README.md
     Labels: [serverless,slack,CloudWatch,logs]
-    HomePageUrl: https://github.com/keetonian/cw-logs-to-slack
+    HomePageUrl: https://github.com/umair-f17/clouwatch-umair
     # Update the semantic version and run sam publish to publish a new version of your app
     SemanticVersion: 1.0.0
     # best practice is to use git tags for each release and link to the version tag as your source code URL
