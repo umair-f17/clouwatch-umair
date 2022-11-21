@@ -27,7 +27,7 @@ Parameters:
     Type: String
   LogGroupName:
     Description: Log group to listen to (has to be in same account and region)
-    Type: String
+    Type: CommaDelimitedList
   FilterPattern:
     Description: Pattern for filtering log events
     Type: String
